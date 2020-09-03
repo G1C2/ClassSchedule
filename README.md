@@ -1,5 +1,5 @@
 
-# ClassSchedule
+# Timetables
 
 ||Monday|Tuesday|Wednesday|Thursday|Friday|
 | ----------- | ---- | ---- | ---- | ---- | ---- |
